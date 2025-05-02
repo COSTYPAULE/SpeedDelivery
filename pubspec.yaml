@@ -1,0 +1,52 @@
+name: delivoo
+description: A new Flutter application.
+
+version: 1.4.4+9
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.3
+  flutter_phoenix: ^1.0.0
+  country_code_picker: ^3.3.0
+  google_fonts: ^4.0.1
+  flutter_bloc: ^7.0.0
+  flutter_rating_bar: ^4.0.0
+  animation_wrappers: ^0.0.4
+  shared_preferences: ^2.0.5
+  google_mobile_ads: ^0.13.2
+  google_maps_flutter: ^2.0.6
+  flutter_polyline_points: ^1.0.0
+  equatable: ^2.0.3
+  modal_bottom_sheet: ^3.0.0   
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/
+    - images/account/
+    - images/address/
+    - images/custom/
+    - images/footermenu/
+    - images/icons/
+    - images/logos/
+    - images/maincategory/
+    - images/veg/
+    - images/veg/Sellers/
+    - images/veg/Vegetables/
+    - images/payment/
+
+          
