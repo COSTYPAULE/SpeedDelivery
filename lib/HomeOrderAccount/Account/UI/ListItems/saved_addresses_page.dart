@@ -1,9 +1,9 @@
 import 'package:animation_wrappers/animation_wrappers.dart';
-import 'package:delivoo/Components/bottom_bar.dart';
-import 'package:delivoo/Locale/locales.dart';
-import 'package:delivoo/Routes/routes.dart';
-import 'package:delivoo/Themes/colors.dart';
-import 'package:delivoo/Themes/style.dart';
+import 'package:SpeedDelivery/Components/bottom_bar.dart';
+import 'package:SpeedDelivery/Locale/locales.dart';
+import 'package:SpeedDelivery/Routes/routes.dart';
+import 'package:SpeedDelivery/Themes/colors.dart';
+import 'package:SpeedDelivery/Themes/style.dart';
 import 'package:flutter/material.dart';
 
 class Address {

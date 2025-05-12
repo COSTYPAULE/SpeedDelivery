@@ -1,5 +1,5 @@
 import 'package:animation_wrappers/animation_wrappers.dart';
-import 'package:delivoo/Locale/locales.dart';
+import 'package:SpeedDelivery/Locale/locales.dart';
 import 'package:flutter/material.dart';
 
 class TncPage extends StatelessWidget {
@@ -22,7 +22,7 @@ class TncPage extends StatelessWidget {
                   color: Theme.of(context).cardColor,
                   child: Image(
                     image:
-                        AssetImage("images/logos/logo_user.png"), //delivoo logo
+                        AssetImage("images/logos/logo_user.png"), //SpeedDelivery logo
                     height: 130.0,
                     width: 99.7,
                   ),

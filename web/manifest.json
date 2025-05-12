@@ -1,6 +1,6 @@
 {
-    "name": "delivoo",
-    "short_name": "delivoo",
+    "name": "SpeedDelivery",
+    "short_name": "SpeedDelivery",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -93,7 +93,7 @@ class Languages {
       'areYouSure': 'Are you sure?',
       'yes': 'Yes',
       'no': 'No',
-      'aboutDelivoo': 'About Delivoo',
+      'aboutSpeedDelivery': 'About SpeedDelivery',
       'aboutBody':
           '\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pulvinar porta sagittis. Sed id varius magna. Etiam felis neque, gravida vitae elementum non, consequat eu odio. Mauris cursus commodo nisi sed imperdiet. Fusce vitae vehicula ipsum, ut commodo lorem. Praesent interdum blandit condimentum. Curabitur vel orci vitae odio congue facilisis eget eget diam.\n\nNam a arcu efficitur, ornare leo eu, euismod leo. Vestibulum porttitor varius leo, eget posuere felis congue vel. Sed sit amet erat quam. Mauris et ex sapien. Sed venenatis, felis sed eleifend vulputate, mauris libero pretium urna, non hendrerit urna quam vitae justo. Maecenas rhoncus lectus consectetur eros pretium feugiat.\n',
       'ourVision': 'Our Vision',
@@ -280,7 +280,7 @@ class Languages {
       'areYouSure': 'هل أنت واثق؟',
       'yes': 'نعم',
       'no': 'لا',
-      'aboutDelivoo': 'حول Delivoo',
+      'aboutSpeedDelivery': 'حول SpeedDelivery',
       'aboutBody':
           '\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pulvinar porta sagittis. Sed id varius magna. Etiam felis neque, gravida vitae elementum non, consequat eu odio. Mauris cursus commodo nisi sed imperdiet. Fusce vitae vehicula ipsum, ut commodo lorem. Praesent interdum blandit condimentum. Curabitur vel orci vitae odio congue facilisis eget eget diam.\n\nNam a arcu efficitur, ornare leo eu, euismod leo. Vestibulum porttitor varius leo, eget posuere felis congue vel. Sed sit amet erat quam. Mauris et ex sapien. Sed venenatis, felis sed eleifend vulputate, mauris libero pretium urna, non hendrerit urna quam vitae justo. Maecenas rhoncus lectus consectetur eros pretium feugiat.\n',
       'ourVision': 'رؤيتنا',
@@ -473,7 +473,7 @@ class Languages {
       'areYouSure': 'Êtes-vous sûr?',
       'yes': 'Oui',
       'no': 'Non',
-      'aboutDelivoo': 'À propos de Delivoo',
+      'aboutSpeedDelivery': 'À propos de SpeedDelivery',
       'aboutBody':
           '\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pulvinar porta sagittis. Sed id varius magna. Etiam felis neque, gravida vitae elementum non, consequat eu odio. Mauris cursus commodo nisi sed imperdiet. Fusce vitae vehicula ipsum, ut commodo lorem. Praesent interdum blandit condimentum. Curabitur vel orci vitae odio congue facilisis eget eget diam.\n\nNam a arcu efficitur, ornare leo eu, euismod leo. Vestibulum porttitor varius leo, eget posuere felis congue vel. Sed sit amet erat quam. Mauris et ex sapien. Sed venenatis, felis sed eleifend vulputate, mauris libero pretium urna, non hendrerit urna quam vitae justo. Maecenas rhoncus lectus consectetur eros pretium feugiat.\n',
       'ourVision': 'Notre vision',
@@ -666,7 +666,7 @@ class Languages {
       'areYouSure': 'Apakah kamu yakin',
       'yes': 'Iya',
       'no': 'Tidak',
-      'aboutDelivoo': 'Tentang Delivoo',
+      'aboutSpeedDelivery': 'Tentang SpeedDelivery',
       'aboutBody':
           '\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pulvinar porta sagittis. Sed id varius magna. Etiam felis neque, gravida vitae elementum non, consequat eu odio. Mauris cursus commodo nisi sed imperdiet. Fusce vitae vehicula ipsum, ut commodo lorem. Praesent interdum blandit condimentum. Curabitur vel orci vitae odio congue facilisis eget eget diam.\n\nNam a arcu efficitur, ornare leo eu, euismod leo. Vestibulum porttitor varius leo, eget posuere felis congue vel. Sed sit amet erat quam. Mauris et ex sapien. Sed venenatis, felis sed eleifend vulputate, mauris libero pretium urna, non hendrerit urna quam vitae justo. Maecenas rhoncus lectus consectetur eros pretium feugiat.\n',
       'ourVision': 'Visi Kami',
@@ -858,7 +858,7 @@ class Languages {
       'areYouSure': 'Você tem certeza?',
       'yes': 'sim',
       'no': 'Não',
-      'aboutDelivoo': 'Sobre o Delivoo',
+      'aboutSpeedDelivery': 'Sobre o SpeedDelivery',
       'aboutBody':
           '\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pulvinar porta sagittis. Sed id varius magna. Etiam felis neque, gravida vitae elementum non, consequat eu odio. Mauris cursus commodo nisi sed imperdiet. Fusce vitae vehicula ipsum, ut commodo lorem. Praesent interdum blandit condimentum. Curabitur vel orci vitae odio congue facilisis eget eget diam.\n\nNam a arcu efficitur, ornare leo eu, euismod leo. Vestibulum porttitor varius leo, eget posuere felis congue vel. Sed sit amet erat quam. Mauris et ex sapien. Sed venenatis, felis sed eleifend vulputate, mauris libero pretium urna, non hendrerit urna quam vitae justo. Maecenas rhoncus lectus consectetur eros pretium feugiat.\n',
       'ourVision': 'Nossa visão',
@@ -1049,7 +1049,7 @@ class Languages {
       'areYouSure': 'Estas seguro',
       'yes': 'si',
       'no': 'No',
-      'aboutDelivoo': 'Sobre Delivoo',
+      'aboutSpeedDelivery': 'Sobre SpeedDelivery',
       'aboutBody':
           '\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pulvinar porta sagittis. Sed id varius magna. Etiam felis neque, gravida vitae elementum non, consequat eu odio. Mauris cursus commodo nisi sed imperdiet. Fusce vitae vehicula ipsum, ut commodo lorem. Praesent interdum blandit condimentum. Curabitur vel orci vitae odio congue facilisis eget eget diam.\n\nNam a arcu efficitur, ornare leo eu, euismod leo. Vestibulum porttitor varius leo, eget posuere felis congue vel. Sed sit amet erat quam. Mauris et ex sapien. Sed venenatis, felis sed eleifend vulputate, mauris libero pretium urna, non hendrerit urna quam vitae justo. Maecenas rhoncus lectus consectetur eros pretium feugiat.\n',
       'ourVision': 'Nuestra visión',
@@ -1243,7 +1243,7 @@ class Languages {
       'areYouSure': 'Emin misiniz?',
       'yes': 'Evet',
       'no': 'Hayır',
-      'aboutDelivoo': 'Delivoo Hakkında',
+      'aboutSpeedDelivery': 'SpeedDelivery Hakkında',
       'aboutBody':
           'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pulvinar porta sagittis. Sed id varius magna. Etiam felis neque, gravidası özgeçmiş elementum olmayan, ab Ódio consequat. Mauris cursus commodo nisi sed imperdiet. Admin vitae vehicula ipsum, ut commodo lorem. Praesent interdum blandit condimentum. Curabitur vel orci vitae odio congue facilisis eget eget diam.Nam bir Arcu efficitur, ornare Leo eu, euismod aslan. Vestibulum porttitor varius leo eget posuere felis congue vel. amet erat quam oturmak sed. Mauris et ex insan. Sed venenatis, felis sed eleifend vulputate, Mauris libero pretium urna olmayan hendrerit urna quam vitae justo. Maecenas rhoncus Lectus consectetur adresi pretium feugiat.',
       'ourVision': 'Vizyonumuz',
@@ -1435,7 +1435,7 @@ class Languages {
       'areYouSure': 'Sei sicuro?',
       'yes': 'sì',
       'no': 'No',
-      'aboutDelivoo': 'A proposito di Delivoo',
+      'aboutSpeedDelivery': 'A proposito di SpeedDelivery',
       'aboutBody':
           'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pulvinar porta sagittis. Sed magna id varius. Etiam felis neque, gravida vitae Elementum non, consequat eu odio. Mauris cursus commodo nisi sed imperdiet. Fusce vitae vehicula ipsum, ut Commodo lorem. Praesent interdum blandit condimentum. Curabitur vel orci vitae odio congue facilisis eget eget diam.Nam un arcu efficitur, ornare leo eu, leo euismod. Vestibulum porttitor varius leo, eget Inchiesta felis congue vel. SED sit amet quam erat. Mauris et ex Sapien. venenatis sed, felis sed eleifend vulputate, Mauris libero Pretium urna, non hendrerit urna quam vitae justo. Mecenate rhoncus Lectus consectetur eros Pretium feugiat.',
       'ourVision': 'La nostra visione',
@@ -1626,7 +1626,7 @@ class Languages {
       'areYouSure': 'Una uhakika?',
       'yes': 'Ndiyo',
       'no': 'Hapana',
-      'aboutDelivoo': 'kuhusu Delivoo',
+      'aboutSpeedDelivery': 'kuhusu SpeedDelivery',
       'aboutBody':
           'Nyumbani thamani ya kitu amet, consectetur adipiscing Elit. Barua pulvinar porta sagittis. Sed id varius magna. Etiam felis wala, gravida vitae elementum mashirika, consequat eu odio. Mauris cursus commodo nisi sed imperdiet. Na admin vitae vehicula ipsum, ut commodo lorem. Wasiliana Nasi interdum blandit condimentum. Curabitur vel orci vitae odio congue facilisis Eget Eget diam.Nam a arcu efficitur, pepe leo eu, euismod leo. Integrated porttitor varius leo, Eget posuere felis congue vel. SED kuchapishwa erat quam. Mauris et ex sapien. Sed venenatis, felis sed eleifend vulputate, Tracking libero mpiga urna, mashirika hendrerit urna quam vitae justo. Maecenas rhoncus lectus consectetur Eros mpiga feugiat.',
       'ourVision': 'Dira yetu',

@@ -1,4 +1,4 @@
-import 'package:delivoo/Locale/locales.dart';
+import 'package:SpeedDelivery/Locale/locales.dart';
 import 'package:flutter/material.dart';
 
 class Addresses extends StatefulWidget {

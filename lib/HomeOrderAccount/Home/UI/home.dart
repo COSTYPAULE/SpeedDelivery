@@ -1,13 +1,13 @@
 import 'package:animation_wrappers/Animations/faded_scale_animation.dart';
-import 'package:delivoo/Components/card_content.dart';
-import 'package:delivoo/Components/custom_appbar.dart';
-import 'package:delivoo/Components/reusable_card.dart';
-import 'package:delivoo/HomeOrderAccount/Home/UI/Stores/stores.dart';
-import 'package:delivoo/HomeOrderAccount/Home/UI/custom_delivery.dart';
-import 'package:delivoo/Locale/locales.dart';
-import 'package:delivoo/Routes/routes.dart';
-import 'package:delivoo/Themes/colors.dart';
-import 'package:delivoo/Themes/style.dart';
+import 'package:SpeedDelivery/Components/card_content.dart';
+import 'package:SpeedDelivery/Components/custom_appbar.dart';
+import 'package:SpeedDelivery/Components/reusable_card.dart';
+import 'package:SpeedDelivery/HomeOrderAccount/Home/UI/Stores/stores.dart';
+import 'package:SpeedDelivery/HomeOrderAccount/Home/UI/custom_delivery.dart';
+import 'package:SpeedDelivery/Locale/locales.dart';
+import 'package:SpeedDelivery/Routes/routes.dart';
+import 'package:SpeedDelivery/Themes/colors.dart';
+import 'package:SpeedDelivery/Themes/style.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatelessWidget {

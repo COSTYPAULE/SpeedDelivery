@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart' show SynchronousFuture;
 import 'dart:async';
-import 'package:delivoo/Locale/languages.dart';
+import 'package:SpeedDelivery/Locale/languages.dart';
 
 class AppLocalizations {
   final Locale locale;
@@ -226,8 +226,8 @@ class AppLocalizations {
     return _localizedValues[locale.languageCode]!['no'];
   }
 
-  String? get aboutDelivoo {
-    return _localizedValues[locale.languageCode]!['aboutDelivoo'];
+  String? get aboutSpeedDelivery {
+    return _localizedValues[locale.languageCode]!['aboutSpeedDelivery'];
   }
 
   String? get saved {

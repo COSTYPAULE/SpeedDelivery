@@ -1,35 +1,37 @@
-import 'package:delivoo/HomeOrderAccount/Account/UI/ListItems/settings_page.dart';
-import 'package:delivoo/Locale/locales.dart';
-import 'package:delivoo/Routes/routes.dart';
-import 'package:delivoo/language_cubit.dart';
-import 'package:delivoo/map_utils.dart';
-import 'package:delivoo/theme_cubit.dart';
+import 'package:SpeedDelivery/HomeOrderAccount/Account/UI/ListItems/settings_page.dart';
+import 'package:SpeedDelivery/Locale/locales.dart';
+import 'package:SpeedDelivery/Routes/routes.dart';
+import 'package:SpeedDelivery/firebase/firebase_init.dart';
+import 'package:SpeedDelivery/language_cubit.dart';
+import 'package:SpeedDelivery/map_utils.dart';
+import 'package:SpeedDelivery/theme_cubit.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_phoenix/flutter_phoenix.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 
-void main() {
+void main() async{
   SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
     statusBarColor: Colors.transparent,
     statusBarIconBrightness: Brightness.dark,
   ));
   WidgetsFlutterBinding.ensureInitialized();
+  await initializeFirebaseApp(); 
+  
   MapUtils.getMarkerPic();
-  runApp(Phoenix(child: Delivoo()));
+  runApp(Phoenix(child: SpeedDelivery()));
   MobileAds.instance.initialize();
 }
 
-class Delivoo extends StatelessWidget {
+class SpeedDelivery extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MultiBlocProvider(
       providers: [
         BlocProvider<LanguageCubit>(
-          create: (context) => LanguageCubit(),
+          create: (context) => LanguageCubit()
         ),
         BlocProvider<ThemeCubit>(
           create: (context) => ThemeCubit(),

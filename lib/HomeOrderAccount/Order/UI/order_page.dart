@@ -1,12 +1,12 @@
 import 'dart:io';
 
 import 'package:animation_wrappers/animation_wrappers.dart';
-import 'package:delivoo/Locale/locales.dart';
-import 'package:delivoo/Routes/routes.dart';
+import 'package:SpeedDelivery/Locale/locales.dart';
+import 'package:SpeedDelivery/Routes/routes.dart';
 import 'package:flutter/material.dart';
-import 'package:delivoo/Themes/colors.dart';
-import 'package:delivoo/Themes/style.dart';
-import 'package:delivoo/HomeOrderAccount/Home/UI/order_placed_map.dart';
+import 'package:SpeedDelivery/Themes/colors.dart';
+import 'package:SpeedDelivery/Themes/style.dart';
+import 'package:SpeedDelivery/HomeOrderAccount/Home/UI/order_placed_map.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 
 class OrderPage extends StatefulWidget {

@@ -1,5 +1,5 @@
-import 'package:delivoo/Themes/colors.dart';
-import 'package:delivoo/Themes/style.dart';
+import 'package:SpeedDelivery/Themes/colors.dart';
+import 'package:SpeedDelivery/Themes/style.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 

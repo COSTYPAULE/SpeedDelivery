@@ -1,8 +1,8 @@
-import 'package:delivoo/Chat/UI/animated_bottom_bar.dart';
-import 'package:delivoo/HomeOrderAccount/Account/UI/account_page.dart';
-import 'package:delivoo/HomeOrderAccount/Home/UI/home.dart';
-import 'package:delivoo/HomeOrderAccount/Order/UI/order_page.dart';
-import 'package:delivoo/Locale/locales.dart';
+import 'package:SpeedDelivery/Chat/UI/animated_bottom_bar.dart';
+import 'package:SpeedDelivery/HomeOrderAccount/Account/UI/account_page.dart';
+import 'package:SpeedDelivery/HomeOrderAccount/Home/UI/home.dart';
+import 'package:SpeedDelivery/HomeOrderAccount/Order/UI/order_page.dart';
+import 'package:SpeedDelivery/Locale/locales.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 

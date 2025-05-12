@@ -1,9 +1,9 @@
 import 'package:animation_wrappers/animation_wrappers.dart';
-import 'package:delivoo/Components/list_tile.dart';
-import 'package:delivoo/Locale/locales.dart';
-import 'package:delivoo/Themes/colors.dart';
+import 'package:SpeedDelivery/Components/list_tile.dart';
+import 'package:SpeedDelivery/Locale/locales.dart';
+import 'package:SpeedDelivery/Themes/colors.dart';
 import 'package:flutter/material.dart';
-import 'package:delivoo/Routes/routes.dart';
+import 'package:SpeedDelivery/Routes/routes.dart';
 
 class PaymentPage extends StatelessWidget {
   @override

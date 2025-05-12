@@ -1,13 +1,13 @@
 import 'dart:async';
 
 import 'package:animation_wrappers/animation_wrappers.dart';
-import 'package:delivoo/HomeOrderAccount/Home/UI/slide_up_panel.dart';
-import 'package:delivoo/Locale/locales.dart';
-import 'package:delivoo/OrderMapBloc/order_map_bloc.dart';
-import 'package:delivoo/OrderMapBloc/order_map_state.dart';
-import 'package:delivoo/Themes/colors.dart';
-import 'package:delivoo/Themes/style.dart';
-import 'package:delivoo/map_utils.dart';
+import 'package:SpeedDelivery/HomeOrderAccount/Home/UI/slide_up_panel.dart';
+import 'package:SpeedDelivery/Locale/locales.dart';
+import 'package:SpeedDelivery/OrderMapBloc/order_map_bloc.dart';
+import 'package:SpeedDelivery/OrderMapBloc/order_map_state.dart';
+import 'package:SpeedDelivery/Themes/colors.dart';
+import 'package:SpeedDelivery/Themes/style.dart';
+import 'package:SpeedDelivery/map_utils.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

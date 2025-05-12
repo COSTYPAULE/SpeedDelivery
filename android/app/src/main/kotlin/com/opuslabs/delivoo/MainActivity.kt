@@ -1,4 +1,4 @@
-package com.opuslabs.delivoo
+package com.opuslabs.SpeedDelivery
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity

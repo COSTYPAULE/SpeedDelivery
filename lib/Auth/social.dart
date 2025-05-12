@@ -1,8 +1,8 @@
 import 'package:animation_wrappers/animation_wrappers.dart';
-import 'package:delivoo/Auth/login_navigator.dart';
-import 'package:delivoo/Components/bottom_bar.dart';
-import 'package:delivoo/Components/entry_field.dart';
-import 'package:delivoo/Locale/locales.dart';
+import 'package:SpeedDelivery/Auth/login_navigator.dart';
+import 'package:SpeedDelivery/Components/bottom_bar.dart';
+import 'package:SpeedDelivery/Components/entry_field.dart';
+import 'package:SpeedDelivery/Locale/locales.dart';
 import 'package:flutter/material.dart';
 
 class SocialLogIn extends StatefulWidget {

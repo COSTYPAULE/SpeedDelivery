@@ -1,4 +1,4 @@
-import 'package:delivoo/Themes/colors.dart';
+import 'package:SpeedDelivery/Themes/colors.dart';
 import 'package:flutter/material.dart';
 
 class AddressTypeButton extends StatelessWidget {

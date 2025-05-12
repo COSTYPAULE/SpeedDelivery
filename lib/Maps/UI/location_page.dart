@@ -1,14 +1,14 @@
 import 'dart:async';
 
 import 'package:animation_wrappers/animation_wrappers.dart';
-import 'package:delivoo/Components/bottom_bar.dart';
-import 'package:delivoo/Components/custom_appbar.dart';
-import 'package:delivoo/Components/entry_field.dart';
-import 'package:delivoo/Locale/locales.dart';
-import 'package:delivoo/Maps/Components/address_type_button.dart';
-import 'package:delivoo/OrderMapBloc/order_map_bloc.dart';
-import 'package:delivoo/OrderMapBloc/order_map_state.dart';
-import 'package:delivoo/Routes/routes.dart';
+import 'package:SpeedDelivery/Components/bottom_bar.dart';
+import 'package:SpeedDelivery/Components/custom_appbar.dart';
+import 'package:SpeedDelivery/Components/entry_field.dart';
+import 'package:SpeedDelivery/Locale/locales.dart';
+import 'package:SpeedDelivery/Maps/Components/address_type_button.dart';
+import 'package:SpeedDelivery/OrderMapBloc/order_map_bloc.dart';
+import 'package:SpeedDelivery/OrderMapBloc/order_map_state.dart';
+import 'package:SpeedDelivery/Routes/routes.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

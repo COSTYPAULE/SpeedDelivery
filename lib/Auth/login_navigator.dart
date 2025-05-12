@@ -1,8 +1,8 @@
-import 'package:delivoo/Auth/MobileNumber/UI/phone_number.dart';
-import 'package:delivoo/Auth/Registration/UI/register_page.dart';
-import 'package:delivoo/Auth/Verification/UI/verification_page.dart';
-import 'package:delivoo/Auth/social.dart';
-import 'package:delivoo/Routes/routes.dart';
+import 'package:SpeedDelivery/Auth/MobileNumber/UI/phone_number.dart';
+import 'package:SpeedDelivery/Auth/Registration/UI/register_page.dart';
+import 'package:SpeedDelivery/Auth/Verification/UI/verification_page.dart';
+import 'package:SpeedDelivery/Auth/social.dart';
+import 'package:SpeedDelivery/Routes/routes.dart';
 import 'package:flutter/material.dart';
 
 GlobalKey<NavigatorState> navigatorKey = GlobalKey<NavigatorState>();

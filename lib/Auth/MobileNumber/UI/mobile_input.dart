@@ -1,8 +1,8 @@
 import 'package:country_code_picker/country_code_picker.dart';
-import 'package:delivoo/Auth/login_navigator.dart';
-import 'package:delivoo/Components/entry_field.dart';
-import 'package:delivoo/Locale/locales.dart';
-import 'package:delivoo/Themes/colors.dart';
+import 'package:SpeedDelivery/Auth/login_navigator.dart';
+import 'package:SpeedDelivery/Components/entry_field.dart';
+import 'package:SpeedDelivery/Locale/locales.dart';
+import 'package:SpeedDelivery/Themes/colors.dart';
 import 'package:flutter/material.dart';
 
 class MobileInput extends StatefulWidget {

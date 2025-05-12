@@ -1,8 +1,8 @@
 import 'package:animation_wrappers/animation_wrappers.dart';
-import 'package:delivoo/Auth/MobileNumber/UI/mobile_input.dart';
-import 'package:delivoo/Auth/login_navigator.dart';
-import 'package:delivoo/Locale/locales.dart';
-import 'package:delivoo/Themes/colors.dart';
+import 'package:SpeedDelivery/Auth/MobileNumber/UI/mobile_input.dart';
+import 'package:SpeedDelivery/Auth/login_navigator.dart';
+import 'package:SpeedDelivery/Locale/locales.dart';
+import 'package:SpeedDelivery/Themes/colors.dart';
 import 'package:flutter/material.dart';
 
 //first page that takes phone number as input for verification
@@ -31,7 +31,7 @@ class _PhoneNumberState extends State<PhoneNumber> {
                 FadedScaleAnimation(
                   Image.asset(
                     "images/logos/logo_user.png",
-                    scale: 4, //delivoo logo
+                    scale: 4, //SpeedDelivery logo
                   ),
                   durationInMilliseconds: 400,
                 ),

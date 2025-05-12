@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.opuslabs" "\0"
-            VALUE "FileDescription", "delivoo" "\0"
+            VALUE "FileDescription", "SpeedDelivery" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "delivoo" "\0"
+            VALUE "InternalName", "SpeedDelivery" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 com.opuslabs. All rights reserved." "\0"
-            VALUE "OriginalFilename", "delivoo.exe" "\0"
-            VALUE "ProductName", "delivoo" "\0"
+            VALUE "OriginalFilename", "SpeedDelivery.exe" "\0"
+            VALUE "ProductName", "SpeedDelivery" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
